@@ -1,0 +1,1 @@
+echo "This course has helped me understand the basics of Git and GitHub. I’ve learned how to work with repositories, branches, commits, and pull requests." > learning.txt
